@@ -1,5 +1,5 @@
 # Specify the Python version
-python_version==3.10.*
+# python_version==3.10.*
 
 # Streamlit library for building the app
 streamlit==1.25.0
